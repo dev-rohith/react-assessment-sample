@@ -1,0 +1,20 @@
+main {
+  font-family: sans-serif;
+  margin: 2rem;
+  background-color: bisque;
+  padding: 5rem;
+}
+
+
+input {
+  margin-right: 0.5rem;
+}
+
+body{
+  background-color: burlywood;
+}
+
+li {
+  margin: 0.5rem 0;
+  cursor: pointer;
+}
